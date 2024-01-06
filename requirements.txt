@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+tqdm
+imutils
+tensorflow
+keras
+opencv-python
+pillow
+dask
